@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitdev98&label=Profile%20views&color=0e75b6&style=flat" alt="sumitdev98" /> </p>
 
-- 🌱 I’m currently learning **Android.**
+- 🔭 I’m currently working on **Android.**
 
-- 💬 Ask me about **Android , UI/UX.**
+- 🌱 I’m currently learning **Dagger Hilt.**
+
+- 💬 Ask me about **Android.**
 
 - 📫 How to reach me **Copscode@gmail.com**
 
